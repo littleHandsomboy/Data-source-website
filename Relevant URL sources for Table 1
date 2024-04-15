@@ -1,0 +1,28 @@
+Ruby on Rails		https://rubyonrails.org/category/releases	
+Play Framework	        https://www.playframework.com/releases	
+AngularJS		https://github.com/angular/angular.js/blob/master/CHANGELOG.md#1.1.4	
+Backbone.js		https://backbonejs.org/#changelog	
+Flask			https://pypi.org/project/Flask/#history	
+Express.js  	        https://expressjs.com/en/changelog/4x.html	
+Knockout.js	 	https://github.com/knockout/knockout/tags?after=v1.0.4	
+Ember.js	 	https://github.com/emberjs/ember.js/tags?after=v2.0.beta.2	
+Laravel	 		https://github.com/laravel/framework/blob/11.x/CHANGELOG.md	
+Meteor.js	  	https://github.com/meteor/meteor/blob/devel/docs/history.md	
+React.js	 	https://github.com/facebook/react/blob/main/CHANGELOG.md#1820-june-14-2022	
+Polymer	 		https://github.com/Polymer/polymer/blob/master/CHANGELOG.md	
+Spring Boot	 	https://github.com/spring-projects/spring-boot/tags	
+Vue2.js	 		https://github.com/vuejs/vue/releases	
+Vue3.js	 		https://github.com/vuejs/core/tags	
+Angular	 		https://angular.io/guide/releases#actively-supported-versions	
+Svelte	 		https://github.com/sveltejs/svelte/tags?after=v0.3.0	
+ASP.NET Core	        https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core	
+Svelte	 		https://github.com/sveltejs/svelte/releases?page=6	
+Quasar	 		https://quasar.dev/start/release-notes	
+NestJS	 		https://github.com/nestjs/nest/tags?after=v4.5.2	
+FastAPI	 		https://github.com/tiangolo/fastapi/releases	
+Alpine.js	 	https://github.com/alpinejs/alpine/releases	
+Blitz.js	 	https://github.com/blitz-js/blitz/releases	
+RedwoodJS	 	https://community.redwoodjs.com/c/announcements/releases-and-upgrade-guides/18	
+Vite	  		https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md	
+Remix	 		https://github.com/remix-run/remix/releases	
+Astro	 		https://github.com/withastro/astro/releases	
